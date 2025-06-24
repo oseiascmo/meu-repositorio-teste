@@ -17,4 +17,5 @@
 6. Criar nosso primeiro Fork;
 
 
+Realizando operações de testes para o nosso repositório.
 
